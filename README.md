@@ -1,0 +1,2 @@
+# kocka-poker
+for learning
