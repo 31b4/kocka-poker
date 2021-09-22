@@ -1,0 +1,13 @@
+body{
+    background-color: #1b1b1b;
+    background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+}
