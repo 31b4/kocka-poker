@@ -48,7 +48,6 @@ function vizsgaljukCsakMeg(lista){
                 alert("nem bekövetkező esemény");
                 sor=true;
             }
-            
             ide.appendChild(ki);
         }
     }
