@@ -57,7 +57,6 @@ function vizsgaljukCsakMeg(lista){
         }else{
             ki.innerHTML="kis sor";
         }
-
     }
     if (par==1) {
         if (drill==1) {
