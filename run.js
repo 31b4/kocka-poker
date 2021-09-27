@@ -48,15 +48,17 @@ function vizsgaljukCsakMeg(lista){
                 alert("nem bekövetkező esemény");
                 sor=true;
             }
+            
             ide.appendChild(ki);
         }
     }
     if (!sor) {
         if(lista.includes(6)&&!(lista.includes(1))){
             ki.innerHTML="nagy sor";
-        }else{
+        }else if(!lista.includes(6)&&lista.includes(1)){
             ki.innerHTML="kis sor";
         }
+
     }
     if (par==1) {
         if (drill==1) {
